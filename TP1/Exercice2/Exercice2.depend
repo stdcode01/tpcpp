@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1584209020 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++\workspace\myproject\main.cpp
+	<iostream>
+
+1664126779 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++\workspace\getting started\main.cpp
+	<iostream>
+	<ctime>
+
+1663879636 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++\workspace\getting started\static.cpp
+
+1664399780 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++   v+\workspace\getting started\static.cpp
+	<iostream>
+	<string>
+
+1664399847 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++   v+\workspace\getting started\main.cpp
+	"header.h"
+
+1664400054 d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++   v+\workspace\getting started\header.h
+	"essai.h"
+
+1664400042 d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++   v+\workspace\getting started\essai.h
+	"header.h"
+
+1664399780 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++   v+ 2-1(ex6)\workspace\getting started\static.cpp
+	<iostream>
+	<string>
+
+1664469726 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++   v+ 2-1(ex6)\workspace\getting started\main.cpp
+	<iostream>
+	<conio.h>
+	<new>
+
+1664399780 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++ +\workspace\getting started\static.cpp
+	<iostream>
+	<string>
+
+1664399780 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\5- poo c++ +\workspace\getting started\static.cpp
+	<iostream>
+	<string>
+
+1665677578 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++ +\workspace\getting started\main.cpp
+	<iostream>
+
+1664983821 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++ +\workspace\getting started\automate.cpp
+	<iostream>
+
+1665140509 d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++ +\workspace\getting started\essai.h
+
+1664668978 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++ +\workspace\getting started\header.h
+
+1665677476 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++ +\workspace\getting started\exercice2.cpp
+	<iostream>
+
+1665679225 source:c:\users\ounaceur\workspace\getting started\main.cpp
+	<iostream>
+
+1665679225 source:d:\abdeljalil\1- studies\3- troisième  année\smi5\4- poo c++\workspace\exercice2\main.cpp
+	<iostream>
+

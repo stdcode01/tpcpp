@@ -1,0 +1,67 @@
+#include <iostream>
+using namespace std;
+
+//B
+ class Bank {
+     public :
+     virtual void Strategie()=0; 
+  };
+ 
+ //B1
+ class Bank1 :public Bank{
+     public :
+       Bank1(){};
+    void Strategie(){
+        cout<<"strategie de la banque 1" ;
+    }
+ };
+ 
+  //B2
+ class Bank2 :public Bank{
+     public :
+       Bank2(){};
+    void Strategie(){
+        cout<<"strategie de la banque 2" ;
+    }
+ };
+ 
+ //G
+ class Guichet{
+    
+   private:
+    Bank * BS;
+
+  public:
+     Guichet(){
+        BS = nullptr;
+    }
+
+    void setStrategie(Bank * c){
+        this->BS =c;
+    }
+
+    void calcule(){
+        BS->Strategie();
+    }
+ };
+ 
+
+
+int main()
+{
+  int a;
+  Guichet g=Guichet();
+    cout<<"Entrer 123 or 345"<<endl;
+    
+    cin>>a ;
+    
+    if(a==123){
+       g.setStrategie(new Bank1());
+    }else if(a==345){
+       g.setStrategie(new Bank2());
+    }
+   
+    g.calcule();
+    
+    return 0;
+}
